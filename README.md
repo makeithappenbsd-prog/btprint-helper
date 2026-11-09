@@ -1,2 +1,9 @@
 # btprint-helper
-Label printer helper for the Bedikas Tefilin app (Windows). Download the latest release zip and run Setup.cmd.
+
+Label printer helper for the Bedikas Tefilin app (Windows).
+
+**Newest helper, always:** https://github.com/makeithappenbsd-prog/btprint-helper/raw/latest/BTPrint-Setup.zip
+
+Unzip it and run `Setup.cmd` as administrator, or let `Setup-NewBuyerPC.ps1 -BtPrint` do it.
+
+Current version: 2.1.1 (printer picker page at http://localhost:8765/setup). Each new version replaces `BTPrint-Setup.zip` on the `latest` branch, so the link above never changes.
